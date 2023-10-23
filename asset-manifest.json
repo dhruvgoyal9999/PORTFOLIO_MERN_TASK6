@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PORTFOLIO_MERN_TASK6/static/css/main.69d5ca58.css",
+    "main.js": "/PORTFOLIO_MERN_TASK6/static/js/main.29084f11.js",
+    "static/js/787.5d339e0f.chunk.js": "/PORTFOLIO_MERN_TASK6/static/js/787.5d339e0f.chunk.js",
+    "static/media/me.jpg": "/PORTFOLIO_MERN_TASK6/static/media/me.141222b3da374f902ee9.jpg",
+    "static/media/abs.avif": "/PORTFOLIO_MERN_TASK6/static/media/abs.cd10a30c30f0bb8f9cf9.avif",
+    "static/media/download.png": "/PORTFOLIO_MERN_TASK6/static/media/download.e6f91027452d8fbbca51.png",
+    "index.html": "/PORTFOLIO_MERN_TASK6/index.html",
+    "main.69d5ca58.css.map": "/PORTFOLIO_MERN_TASK6/static/css/main.69d5ca58.css.map",
+    "main.29084f11.js.map": "/PORTFOLIO_MERN_TASK6/static/js/main.29084f11.js.map",
+    "787.5d339e0f.chunk.js.map": "/PORTFOLIO_MERN_TASK6/static/js/787.5d339e0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69d5ca58.css",
+    "static/js/main.29084f11.js"
+  ]
+}
